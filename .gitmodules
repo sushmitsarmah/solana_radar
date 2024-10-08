@@ -1,0 +1,3 @@
+[submodule "solana_radar_contracts"]
+	path = solana_radar_contracts
+	url = git@github.com:sushmitsarmah/solana_radar_contracts.git
